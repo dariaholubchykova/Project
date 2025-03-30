@@ -41,7 +41,7 @@
 Фільтр за датою: дозволяє аналізувати показники за обраний період.
 Дашборд дає змогу швидко оцінити основні джерела доходу, сезонність, а також клієнтські вподобання.
 
-[Переглянути звіт на Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2UzZTJmMTEtMzJiMi00MDdlLTkwYzAtZWYzMzNlZWY5NGZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Переглянути інтерактивний звіт](https://app.powerbi.com/view?r=eyJrIjoiY2UzZTJmMTEtMzJiMi00MDdlLTkwYzAtZWYzMzNlZWY5NGZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ![8e52d794-dd4b-451a-91a1-03f9e0d72b9c](https://github.com/user-attachments/assets/fb61396d-cf4e-464d-b427-3aba3c71489a)
 
